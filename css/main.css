@@ -75,6 +75,10 @@ footer {
   footer {
     background-color: #8df3af;
   }
+
+  .col-3 {
+    width: 50%;
+  }
 }
 
 /*---------- Desktops ----------*/
@@ -97,5 +101,9 @@ footer {
 
   footer {
     background-color: #f3ab54;
+  }
+
+  .col-3 {
+    width: 33.3%;
   }
 }
